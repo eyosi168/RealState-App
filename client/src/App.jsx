@@ -8,8 +8,7 @@ import Login from "./components/routes/login/Login";
 
 function App() {
   const router= createBrowserRouter([
-   
-    {
+   {
       path:"/",
       element: <Layout/>
       ,
